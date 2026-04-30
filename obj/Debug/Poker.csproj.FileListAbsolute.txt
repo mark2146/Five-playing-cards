@@ -1,0 +1,12 @@
+C:\Users\apple\OneDrive\桌面\poker_20260422\Poker\bin\Debug\Poker.exe.config
+C:\Users\apple\OneDrive\桌面\poker_20260422\Poker\bin\Debug\Poker.exe
+C:\Users\apple\OneDrive\桌面\poker_20260422\Poker\bin\Debug\Poker.pdb
+C:\Users\apple\OneDrive\桌面\poker_20260422\Poker\obj\Debug\Poker.csproj.AssemblyReference.cache
+C:\Users\apple\OneDrive\桌面\poker_20260422\Poker\obj\Debug\Poker.frmPicTest.resources
+C:\Users\apple\OneDrive\桌面\poker_20260422\Poker\obj\Debug\Poker.frmPoker.resources
+C:\Users\apple\OneDrive\桌面\poker_20260422\Poker\obj\Debug\Poker.Properties.Resources.resources
+C:\Users\apple\OneDrive\桌面\poker_20260422\Poker\obj\Debug\Poker.csproj.GenerateResource.cache
+C:\Users\apple\OneDrive\桌面\poker_20260422\Poker\obj\Debug\Poker.csproj.CoreCompileInputs.cache
+C:\Users\apple\OneDrive\桌面\poker_20260422\Poker\obj\Debug\Poker.exe
+C:\Users\apple\OneDrive\桌面\poker_20260422\Poker\obj\Debug\Poker.pdb
+C:\Users\apple\OneDrive\桌面\poker_20260422\Poker\obj\Debug\Poker.exe.config
