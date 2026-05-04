@@ -58,11 +58,11 @@
 
 ### 遊戲主畫面
 
-![遊戲主畫面](screenshots/main.png)
+![遊戲主畫面](screenshots/main.jpg)
 
 ### 下注功能畫面
 
-![下注功能](screenshots/bet.png)
+![下注功能](screenshots/bet.jpg)
 
 ## 專案結構
 
